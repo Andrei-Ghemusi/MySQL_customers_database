@@ -1,4 +1,4 @@
-# Basic MySQL DataBase
+# MySQL customers database
 
 - ## 01 Create a database named customers_database
 
